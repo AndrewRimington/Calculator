@@ -1,2 +1,2 @@
 # Calculator
-This was my first Python project.
+This was my early Python project.
